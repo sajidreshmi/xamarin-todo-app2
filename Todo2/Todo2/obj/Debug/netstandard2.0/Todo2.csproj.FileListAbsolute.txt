@@ -1,0 +1,15 @@
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\bin\Debug\netstandard2.0\Todo2.deps.json
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\bin\Debug\netstandard2.0\Todo2.dll
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\bin\Debug\netstandard2.0\Todo2.pdb
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.csproj.AssemblyReference.cache
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.AssemblyInfoInputs.cache
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.AssemblyInfo.cs
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.csproj.CoreCompileInputs.cache
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.dll
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\refint\Todo2.dll
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\Todo2.pdb
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\ref\Todo2.dll
+C:\Users\sajid\Xamarin\source\repos\Todo2\Todo2\Todo2\obj\Debug\netstandard2.0\ToDoView.xaml.g.cs
